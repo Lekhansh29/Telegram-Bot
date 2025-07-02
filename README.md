@@ -1,4 +1,4 @@
-## 🤖 Telegram Bot (Async Python)
+# 🤖 Telegram Bot (Async Python)
 A Telegram Bot built using Python with asynchronous programming for high performance and responsiveness. This bot is deployed directly to the Telegram platform using the Telegram Bot API and a secure bot token.
 
 # 🚀 Features
