@@ -41,7 +41,7 @@ Or directly in Python:
 python
 Copy
 Edit
-TOKEN = '7750632666:AAGXcXKo8Y6ek1PwN2RNJTbZsjmU_VO1AoU'
+TOKEN = 'dm_me_for_accessing_token'
 You can get a token from @BotFather on Telegram.
 
 # 🛠️ Usage
